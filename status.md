@@ -1,4 +1,4 @@
-CHECK: 20240302-122758
+CHECK: 20240310-211329
 OK: file codeforces.id is correct
 ERROR: folder misis2024s-23-02-kuznechik-b-a/prj.codeforces is absent
 ERROR: file CMakeLists.txt is absent
@@ -20,7 +20,9 @@ ERROR: lab stackarr - test build failed
 ERROR: lab stackarr_m - test build failed
 ERROR: lab stacklst - test build failed
 ERROR: lab stacklst_m - test build failed
-ERROR: lab queuelst - test build failed
-ERROR: lab queuelst_m - test build failed
 ERROR: lab queuearr - test build failed
 ERROR: lab queuearr_m - test build failed
+ERROR: lab queuelst - test build failed
+ERROR: lab queuelst_m - test build failed
+ERROR: lab queuelstpr - test build failed
+ERROR: lab queuelstpr_m - test build failed
