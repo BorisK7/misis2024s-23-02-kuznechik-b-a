@@ -1,13 +1,5 @@
-CHECK: 20240318-104816
+CHECK: 20240325-004906
 OK: file codeforces.id is correct
-ERROR: folder misis2024s-23-02-kuznechik-b-a/prj.codeforces is absent
-ERROR: file CMakeLists.txt is absent
-ERROR: file prj.codeforces/CMakeLists.txt is absent
-ERROR: file prj.lab/CMakeLists.txt is absent
-ERROR: file prj.test/CMakeLists.txt is absent
-ERROR: file prj.lab/complex/CMakeLists.txt is absent
-ERROR: file prj.lab/rational/CMakeLists.txt is absent
-ERROR: CMake generator failed
 ERROR: lab complex - test build failed
 ERROR: lab complex_io - test build failed
 ERROR: lab complex_m - test build failed
@@ -26,3 +18,5 @@ ERROR: lab queuelst - test build failed
 ERROR: lab queuelst_m - test build failed
 ERROR: lab queuelstpr - test build failed
 ERROR: lab queuelstpr_m - test build failed
+ERROR: lab bitset - test build failed
+ERROR: lab bitset_m - test build failed
