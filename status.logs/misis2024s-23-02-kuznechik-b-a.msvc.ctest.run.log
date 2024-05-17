@@ -203,7 +203,7 @@ Release/D:/projects/misis2023f-23-check/misis2024s-23-02-kuznechik-b-a/bin.check
 
 0% tests passed, 20 tests failed out of 20
 
-Total Test time (real) =   0.02 sec
+Total Test time (real) =   0.03 sec
 
 The following tests FAILED:
 	  1 - doctest_bitset (Not Run)
